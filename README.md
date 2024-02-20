@@ -82,7 +82,7 @@ Para contribuir com <nome_do_projeto>, siga estas etapas:
 
 Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
-## 🤝 Colaboradores
+## 🤝 Colaboradoras Integrantes
 
 Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
@@ -90,25 +90,25 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="#" title="defina o titulo do link">
-        <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
+        <img src="https://rafatrotamundos.files.wordpress.com/2012/08/cassandra2.jpg" width="100px;" alt="Imagem 1"/><br>
         <sub>
-          <b>Iuri Silva</b>
+          <b>Ana Lima Aleixo </b>
         </sub>
       </a>
     </td>
     <td align="center">
       <a href="#" title="defina o titulo do link">
-        <img src="https://s2.glbimg.com/FUcw2usZfSTL6yCCGj3L3v3SpJ8=/smart/e.glbimg.com/og/ed/f/original/2019/04/25/zuckerberg_podcast.jpg" width="100px;" alt="Foto do Mark Zuckerberg"/><br>
+        <img src="https://divindades.com/wp-content/uploads/2022/12/Deusa-Euphrosyne.webp" width="100px;" alt="Imagem 2"/><br>
         <sub>
-          <b>Mark Zuckerberg</b>
+          <b>Maressa Bonassoli</b>
         </sub>
       </a>
     </td>
     <td align="center">
       <a href="#" title="defina o titulo do link">
-        <img src="https://miro.medium.com/max/360/0*1SkS3mSorArvY9kS.jpg" width="100px;" alt="Foto do Steve Jobs"/><br>
+        <img src="https://static.wixstatic.com/media/bd1747_5cc1b2fb9c5545df99ae08371141cf88~mv2.jpg/v1/fit/w_1000,h_1000,al_c,q_80/file.jpg" width="100px;" alt="Imagem 3"/><br>
         <sub>
-          <b>Steve Jobs</b>
+          <b>Ana Chung ti Kam</b>
         </sub>
       </a>
     </td>
