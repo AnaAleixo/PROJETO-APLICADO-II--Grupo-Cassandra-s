@@ -9,7 +9,7 @@
 # PROJETO-APLICADO-II--Grupo-Cassandra's 🚀 
  PROJETO APLICADO II - CURSO TECNOLOGIA EM CIENCIA DE DADOS - ANO 2024 - 1º SEMESTRE - TURMA 03A
 
-> Este projeto faz parte dos requisitos da atividade de conclusão da disciplina de Projeto Aplicado II, do Curso de Tecnologia em Ciência de Dados. Realizado no 1º Semestre de 2024, Turma 03A. O objetivo é aplicar os conhecimentos adquiridos ao longo do curso para abordar uma problemática relevante, neste caso, a análise e prevenção da violência contra a mulher nos municípios brasileiros.
+> Este projeto faz parte dos requisitos da atividade de conclusão da disciplina de Projeto Aplicado II, do Curso de Tecnologia em Ciência de Dados. Realizado no 1º Semestre de 2024, Turma 03A. O objetivo é aplicar os conhecimentos adquiridos ao longo do curso para abordar uma problemática relevante, neste caso, a análise e prevenção da violência contra a mulher, com recorte no estado de Minas Gerais.
 
 ### Ajustes e melhorias
 
